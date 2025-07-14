@@ -20,7 +20,7 @@ The LIS-Test repository includes the test scripts to verify correct behavior of 
 1.  Checkout from https://github.com/LIS/lis-test.git
 
 ### Download Public Utilities
-Download Putty executables from http://www.putty.org and keep them in the `.\bin` folder. You should have the following utilities:
+Download Putty executables from https://www.chiark.greenend.org.uk/~sgtatham/putty/ and keep them in the `.\bin` folder. You should have the following utilities:
 
         •	plink.exe
         •	pscp.exe
